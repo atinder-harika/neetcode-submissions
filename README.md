@@ -4,6 +4,16 @@
 
 ---
 
+## Progress
+
+| Pattern | Problem | First solved |
+| --- | --- | --- |
+| Arrays & Hashing | [Duplicate Integer](Data%20Structures%20%26%20Algorithms/duplicate-integer) | 2026-09-20 |
+| Arrays & Hashing | [Is Anagram](Data%20Structures%20%26%20Algorithms/is-anagram) | 2026-10-28 |
+| Arrays & Hashing | [Two Integer Sum](Data%20Structures%20%26%20Algorithms/two-integer-sum) | 2026-10-28 |
+
+---
+
 ## What is this?
 
 [NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
